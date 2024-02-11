@@ -23,4 +23,7 @@ Add below environment variables:-
 9. Alwasy check the infermodel api from source to destination if we migrating Coredata for lightweight migrations. Below example has method to check the models.
 https://github.com/wibosco/CoreDataMigration-Example
 
+# Code Debugging
+
+1. use print(type(of: view.body)) to check heirarchy of modifiers for the view.
 
